@@ -67,7 +67,7 @@ def measure_performance():
 
     print(f"Elapsed Time for 1000 Nodes: {elapsed_time:.6f} seconds")
     print("Parent-Child Relationships:")
-    for rel in relationships[:10]:  # Print the first 10 relationships for brevity
+    for rel in relationships[:10]: 
         print(rel)
 
 if __name__ == "__main__":
