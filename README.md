@@ -22,11 +22,11 @@ Make sure you have the following installed on your machine:
 
 3. Run python code
 
-   ``bash
+   ```bash
    py index.py
 
 Dependency CLI Installation
-   ``bash
+   ```bash
    py -m pip install numpy
    py -m pip install pandas
    py -m pip install beautifulsoup4
